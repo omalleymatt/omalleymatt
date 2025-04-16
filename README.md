@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matthew O'Malley</h1>
+<h1 align="center">Hi, I'm Matt O'Malley</h1>
 <h3 align="center">Data Analyst from Brooklyn, NY</h3>
 
 Combining a strong analytical foundation from a Data Science and Machine Learning certification with a background in education
