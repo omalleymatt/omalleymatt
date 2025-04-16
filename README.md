@@ -8,7 +8,7 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 👨‍💻 I’m currently working on:
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
 
-🌱 I’m currently learning **Statistics with Python, Tableau, GIS**
+🌱 I’m currently learning **Statistics, Tableau, GIS**
 
 
 <h3 align="left">Connect with me:</h3>
