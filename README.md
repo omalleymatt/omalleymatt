@@ -7,7 +7,7 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 
 👨‍💻 I’m currently working on:
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
-#- [Ames, Iowa Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction)
+##- [Ames, Iowa Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction)
 
 
 
