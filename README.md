@@ -5,8 +5,11 @@ Combining a strong analytical foundation from a Data Science and Machine Learnin
 
 Offering detail-oriented critical thinking and results-driven dedication to uncovering actionable insights from data
 
-👨‍💻 I’m currently working on:
+Capstone Project from 4Geeks Data Science and Machine Learning Certification:
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
+
+👨‍💻 I’m currently working on:
+- [Ames Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction) 
 
 🌱 I’m currently learning **Statistics, Tableau, GIS**
 
