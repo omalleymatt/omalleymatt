@@ -9,9 +9,9 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
 
 👨‍💻 I’m currently working on:
-- [Ames Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction) 
+- [Trees and Income in NYC](https://github.com/matthewtomalley/Trees-and-Income) 
 
-🌱 I’m currently learning **Statistics, Tableau**
+🌱 I’m currently learning **Tableau**
 
 
 <h3 align="left">Connect with me:</h3>
