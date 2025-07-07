@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Matt O'Malley</h1>
-<h3 align="center">Data Analyst from Brooklyn, NY</h3>
+<h1 align="center">Matt O'Malley</h1>
+<h3 align="center">Educator and Data Professional from Brooklyn, NY</h3>
 
 Combining a strong analytical foundation from a Data Science and Machine Learning certification with a background in education
 
@@ -9,10 +9,9 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
 
 👨‍💻 I’m currently working on:
-- [Trees and Income in NYC](https://github.com/matthewtomalley/Trees-and-Income) 
+- [Predicting Student Performance]([https://github.com/matthewtomalley/Trees-and-Income](https://github.com/matthewtomalley/Student-Performance)) 
 
 🌱 I’m currently learning **Tableau**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
