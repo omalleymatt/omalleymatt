@@ -9,9 +9,9 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
 
 👨‍💻 I’m currently working on:
-- [Predicting Student Performance]([https://github.com/matthewtomalley/Trees-and-Income](https://github.com/matthewtomalley/Student-Performance)) 
+- [Predicting Student Performance]((https://github.com/matthewtomalley/Student-Performance)) 
 
-🌱 I’m currently learning **Tableau**
+🌱 I’m currently studying **Tableau Business Intelligence Analyst Professional Certificate, Skill path: Analyze Data with SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
