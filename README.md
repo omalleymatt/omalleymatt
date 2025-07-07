@@ -11,7 +11,7 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 👨‍💻 I’m currently working on:
 - [Predicting Student Performance]((https://github.com/matthewtomalley/Student-Performance)) 
 
-🌱 I’m currently studying: **Tableau Business Intelligence Analyst Professional Certificate on Coursera and Analyze Data with SQL on Codecademy**
+🌱 I’m currently studying: **Tableau Business Intelligence Analyst Professional Certificate and Analyze Data with SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
