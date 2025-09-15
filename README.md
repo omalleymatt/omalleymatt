@@ -11,7 +11,7 @@ Offering detail-oriented critical thinking and results-driven dedication to unco
 👨‍💻 I’m currently working on:
 - [Ames Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction)
 
-🌱 I’m currently studying: **Tableau Business Intelligence Analyst Professional CertificateL**
+🌱 I’m currently studying: **Tableau Business Intelligence Analyst Professional Certificate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
