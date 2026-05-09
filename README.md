@@ -1,5 +1,5 @@
 <h1 align="center">Matt O'Malley</h1>
-<h3 align="center">Educator and Data Professional from Brooklyn, NY</h3>
+<h3 align="center">Data Professional from Brooklyn, NY</h3>
 
 Combining a strong analytical foundation from a Data Science and Machine Learning certification with a background in education
 
