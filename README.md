@@ -1,9 +1,11 @@
 <h1 align="center">Matt O'Malley</h1>
-<h3 align="center">Data Professional from Brooklyn, NY</h3>
+<h3 align="center">Data Specialist from Brooklyn, NY</h3>
 
 Combining a strong analytical foundation from a data science and machine learning certification with a background in education
 
 Offering detail-oriented critical thinking and results-driven dedication to uncovering actionable insights from data
+
+Creating AI-powered solutions to data challenges
 
 👨‍💻 I’m currently working on:
 - [Palmer Penguins LLM-assisted EDA](https://github.com/omalleymatt/Palmer-Penguins)
