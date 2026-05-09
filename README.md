@@ -6,11 +6,11 @@ Combining a strong analytical foundation from a Data Science and Machine Learnin
 Offering detail-oriented critical thinking and results-driven dedication to uncovering actionable insights from data
 
 🔭 Capstone Project from 4Geeks Data Science and Machine Learning Certification:
-- [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
+- [Florida Housing Price Prediction](https://github.com/omalleymatt/Florida-Housing-Price-Prediction)
 
 👨‍💻 I’m currently working on:
-- [Ames Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction)
-- [Data Science and Machine Learning Practice](https://github.com/matthewtomalley/data-and-ml-practice)
+- [Palmer Penguins LLM-assisted EDA](https://github.com/omalleymatt/Palmer-Penguins)
+- [West Brook Trout](https://github.com/omalleymatt/West-Brook-Trout)
 
 🌱 I’m currently studying: **Tableau Business Intelligence Analyst Professional Certificate**
 
