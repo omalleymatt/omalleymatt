@@ -5,7 +5,7 @@ Combining a strong analytical foundation from a data science and machine learnin
 
 Offering detail-oriented critical thinking and results-driven dedication to uncovering actionable insights from data
 
-Creating AI-powered solutions to data challenges--check out the [Palmer Penguins LLM-Assisted EDA](https://github.com/omalleymatt/Palmer-Penguins) project, where I integrate a locally-hosted LLM into the data analysis process to directly translate natural language prompts into into instant data insights — no cloud, no API costs, no data leaving my machine.
+Creating AI-powered solutions to data challenges--check out the [Palmer Penguins LLM-Assisted EDA](https://github.com/omalleymatt/Palmer-Penguins) project, where I integrate a locally-hosted LLM into the data analysis process to directly translate natural language prompts into into instant data insights--no cloud, no API costs, no data leaving my machine.
 
 👨‍💻 I’m currently working on:
 - [Palmer Penguins LLM-Assisted EDA](https://github.com/omalleymatt/Palmer-Penguins)
