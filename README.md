@@ -9,7 +9,7 @@ Creating AI-powered solutions to data challenges--check out the [Palmer Penguins
 
 👨‍💻 I’m currently working on:
 - [Palmer Penguins LLM-Assisted EDA](https://github.com/omalleymatt/Palmer-Penguins)
-- [West Brook Trout](https://github.com/omalleymatt/West-Brook-Trout)
+- [West Brook Trout Predictive Modeling](https://github.com/omalleymatt/West-Brook-Trout)
 
 🔭 Capstone Project from 4Geeks Data Science and Machine Learning Certification:
 - [Florida Housing Price Prediction](https://github.com/omalleymatt/Florida-Housing-Price-Prediction)
